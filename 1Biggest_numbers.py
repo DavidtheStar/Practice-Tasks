@@ -1,5 +1,5 @@
-"write a program gets user input 2 numbers. If numbers different, output value"
-",if equal say numbers are equal, program repeats until 0 is answered."
+"""write a program gets user input 2 numbers. If numbers different, output value"
+",if equal say numbers are equal, program repeats until 0 is answered."""""
 
 
 while True :

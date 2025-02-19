@@ -1,7 +1,7 @@
 """Calculate volume of concrete needed for each job, as well as the total"
 ("that is needed for all jobs. With commercial thickness of concrete = 0.5m "
  "and the residential are 0.25m, program will continuously repeat til X "
- "entered."""
+ "entered."""""
 total_volume = 0
 while True:
  building_type = input("Enter your building type (residential or commercial) "
